@@ -1,0 +1,5 @@
+#amirah
+import seaborn as sns  
+sns.boxplot(data=iris)
+
+myfirst.py
